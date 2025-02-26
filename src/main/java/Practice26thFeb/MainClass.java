@@ -20,6 +20,16 @@ public class MainClass {
         //sw.sumOfDigits(1234);
         //sw.fibonacciSeries();
         //sw.primeno(11);
+        //sw.factorial(6);
+        //sw.arraySum();
+        //sw.extractEvenElements();
+        //sw.equalityOfArrays();
+        //sw.minElement();
+        //sw.duplicatesInArrayM1();
+        //sw.duplicatesInArrayM2();
+        //sw.linearSearchArray();
+        sw.binarySearchArray();
+
 
 
     }
